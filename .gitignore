@@ -1,0 +1,16 @@
+build/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+*.apk
+*.dex
+*.so
+*.sqlite
+*.db
+*.pcap
+*.pcapng
+*.pem
+*.key
+*.p12
+*.jks
